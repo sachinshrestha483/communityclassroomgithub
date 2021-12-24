@@ -1,1 +1,2 @@
-file1
+Changes in Commit 1 
+Changes in Commit 2 
