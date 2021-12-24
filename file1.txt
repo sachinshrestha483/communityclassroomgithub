@@ -1,2 +1,3 @@
 Changes in Commit 1 
 Changes in Commit 2 
+Changes in Commit 3 Edited Line 
